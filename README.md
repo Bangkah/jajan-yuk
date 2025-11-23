@@ -20,7 +20,8 @@ Dari permasalahan tersebut, saya membuat aplikasi **Yuk Jajan**, sebuah layanan 
 Yuk Jajan adalah aplikasi delivery makanan berbasis web yang memungkinkan **user** untuk melihat menu dan melakukan pemesanan.
 Sementara itu, **admin** dapat mengelola menu dan status pesanan.
 
-Aplikasi ini terinspirasi dari GoFood/GrabFood, tetapi dibuat dengan versi yang lebih sederhana untuk memudahkan proses pembelajaran dan pengembangan.
+Selain pemesanan menu, aplikasi ini juga menyediakan fitur Titip Beli, di mana user dapat mengetik manual barang yang ingin dibeli, seperti:
+“Bang, tolong belikan kopi Kapal Api di kedai depan kampus.”
 
 ### **Fitur Unik – Smart Recommend Menu**
 
@@ -30,7 +31,6 @@ Menampilkan rekomendasi makanan berdasarkan:
 * Waktu (pagi/siang/malam)
 * Menu promo harian yang ditentukan admin
 
-Fitur ini tetap dibuat ringan agar mudah dipahami dan relevan untuk tugas akhir.
 
 ---
 
@@ -54,6 +54,7 @@ Fitur ini tetap dibuat ringan agar mudah dipahami dan relevan untuk tugas akhir.
 * Melakukan pemesanan
 * Mengisi alamat dan catatan
 * Melihat status pesanan
+* Titip jajan / titip beli (input manual nama barang)
 
 ### **Admin**
 
