@@ -1,4 +1,4 @@
-# **Yuk Jajan – Simple Food Delivery Web App**
+# **Yuk Makan – Simple Food Delivery Web App**
 
 **Yuk Jajan** adalah aplikasi web sederhana berbasis **Laravel** yang berfungsi sebagai platform pemesanan makanan secara online.
 Projek ini dibuat untuk memenuhi **Tugas Akhir Semester 3** Mata kuliah **web Lanjut**, sekaligus sebagai sarana belajar dasar Laravel seperti **CRUD**, **Authentication**, dan pengelolaan data.
@@ -17,7 +17,7 @@ Dari permasalahan tersebut, saya membuat aplikasi **Yuk Jajan**, sebuah layanan 
 
 ## **Deskripsi Proyek**
 
-Yuk Jajan adalah aplikasi delivery makanan berbasis web yang memungkinkan **user** untuk melihat menu dan melakukan pemesanan.
+Yuk Makan adalah aplikasi delivery makanan berbasis web yang memungkinkan **user** untuk melihat menu dan melakukan pemesanan.
 Sementara itu, **admin** dapat mengelola menu dan status pesanan.
 
 Selain pemesanan menu, aplikasi ini juga menyediakan fitur Titip Beli, di mana user dapat mengetik manual barang yang ingin dibeli, seperti:
